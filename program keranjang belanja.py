@@ -3,7 +3,7 @@
 print('''
       =====================================
       
-           PROGRAM KERANGJANG BELANJA
+           PROGRAM KERANJANG BELANJA
       
       =====================================
       ''')
